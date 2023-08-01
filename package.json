@@ -2,7 +2,7 @@
   "name": "webpack5",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/juliavolk96/environment_hw"
